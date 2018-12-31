@@ -1,3 +1,4 @@
 Hello there!
 This line was added in edit-branch
 This line is the 2nd edit to this file in edit-branch
+Added this line in master when changes to line 4 were not added in test-edit.
